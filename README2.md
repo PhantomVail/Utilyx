@@ -152,8 +152,8 @@ The goal is to provide a **single modern developer toolkit** that replaces dozen
 | Styling    | [Tailwind CSS 3](https://tailwindcss.com/) |
 | Components | [shadcn/ui](https://ui.shadcn.com/)|
 | Icons      | [Lucide](https://lucide.dev/)                       |
-| Forms      | React Hook Form                 |
-| Validation | Zod                             |
+| Forms      | [React Hook Form](https://react-hook-form.com/)                 |
+| Validation | [Zod](https://zod.dev/)                             |
 | Utilities  | [Faker.js](https://fakerjs.dev), [Marked](https://github.com/markedjs/marked), [SQL Formatter](https://www.npmjs.com/package/sql-formatter) |
 | Crypto     | [Web Crypto API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)                |
 
@@ -163,46 +163,33 @@ The goal is to provide a **single modern developer toolkit** that replaces dozen
 
 ## Prerequisites
 
-* Node.js **18+**
-* npm, pnpm, bun, or yarn
+- [Node.js](https://nodejs.org/) >= 18
+- [pnpm](https://pnpm.io/) (recommended) or npm / yarn
 
 ---
 
 ## Installation
 
 ```bash
+# 1. Clone the repository
 git clone https://github.com/phantomvail/utilyx.git
 cd utilyx
-npm install
-```
 
-or
-
-```bash
+# 2. Install dependencies
 pnpm install
+
+# 3. Start the development server
+pnpm dev
 ```
 
----
+Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-## Development
-
-```bash
-npm run dev
-```
-
-Open:
-
-```
-http://localhost:5173
-```
-
----
 
 ## Build
 
 ```bash
-npm run build
-npm run preview
+pnpm build
+pnpm preview
 ```
 
 The build output is generated in:
