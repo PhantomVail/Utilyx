@@ -62,8 +62,6 @@ The goal is to provide a **single modern developer toolkit** that replaces dozen
 
 </details>
 
----
-
 <details>
 <summary><strong>🔄 Transform</strong></summary>
 
@@ -87,8 +85,6 @@ The goal is to provide a **single modern developer toolkit** that replaces dozen
 
 </details>
 
----
-
 <details>
 <summary><strong>🔍 Inspect</strong></summary>
 
@@ -110,8 +106,6 @@ The goal is to provide a **single modern developer toolkit** that replaces dozen
 
 </details>
 
----
-
 <details>
 <summary><strong>🔐 Cryptography</strong></summary>
 
@@ -128,8 +122,6 @@ The goal is to provide a **single modern developer toolkit** that replaces dozen
 | **Text Encoder**           | Encode text into binary, hex, octal       |
 
 </details>
-
----
 
 <details>
 <summary><strong>🎨 Create</strong></summary>
@@ -154,16 +146,16 @@ The goal is to provide a **single modern developer toolkit** that replaces dozen
 
 | Layer      | Technology                      |
 | ---------- | ------------------------------- |
-| Framework  | React 18                        |
-| Language   | TypeScript                      |
-| Build Tool | Vite                            |
-| Styling    | Tailwind CSS                    |
-| Components | shadcn/ui + Radix UI            |
-| Icons      | Lucide                          |
+| Framework  |[React 18](https://reactjs.org/) |
+| Language   |[TypeScript](https://www.typescriptlang.org/)|
+| Build Tool |  [Vite](https://vitejs.dev/)                           |
+| Styling    | [Tailwind CSS 3](https://tailwindcss.com/) |
+| Components | [shadcn/ui](https://ui.shadcn.com/)|
+| Icons      | [Lucide](https://lucide.dev/)                       |
 | Forms      | React Hook Form                 |
 | Validation | Zod                             |
-| Utilities  | Faker.js, Marked, SQL Formatter |
-| Crypto     | Web Crypto API                  |
+| Utilities  | [Faker.js](https://fakerjs.dev), [Marked](https://github.com/markedjs/marked), [SQL Formatter](https://www.npmjs.com/package/sql-formatter) |
+| Crypto     | [Web Crypto API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API)                |
 
 ---
 
