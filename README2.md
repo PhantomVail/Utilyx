@@ -265,7 +265,7 @@ utilyx
 
 # Contributing
 
-Contributions are welcome. See 'CONTRIBUTING.md' for more details.
+Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 ### Adding a Tool
 
