@@ -164,11 +164,3 @@ By contributing to Utilyx, you agree that your contributions will be licensed un
 
 If you're unsure about a tool idea, \[open an issue](https://github.com/phantomvail/utilyx/issues) first to discuss it with the maintainers!
 
-
-
----
-
-
-
-Made with ☕ and TypeScript · No data leaves your browser, ever.
-
