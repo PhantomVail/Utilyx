@@ -130,7 +130,7 @@ export function ToolSidebar({ activeTool, onSelect }: SidebarProps) {
         ))}
       </nav>
       <div className="p-4 border-t border-border">
-        <span className="text-[10px] text-muted-foreground font-mono">v1.7 — 50 tools</span>
+        <span className="text-[10px] text-muted-foreground font-mono">v1.7 — {tools.length} </span>
       </div>
     </aside>
   );
