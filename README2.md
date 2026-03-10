@@ -49,6 +49,7 @@ The goal is to provide a **single modern developer toolkit** that replaces dozen
 
 <details>
 <summary><strong>📦 Data - 7 tools</strong></summary>
+<br>
 
 | Tool                      | Description                                       |
 | ------------------------- | ------------------------------------------------- |
@@ -64,6 +65,7 @@ The goal is to provide a **single modern developer toolkit** that replaces dozen
 
 <details>
 <summary><strong>🔄 Transform - 15 tools</strong></summary>
+<br>
 
 | Tool                         | Description                               |
 | ---------------------------- | ----------------------------------------- |
@@ -87,6 +89,7 @@ The goal is to provide a **single modern developer toolkit** that replaces dozen
 
 <details>
 <summary><strong>🔍 Inspect - 13 tools</strong></summary>
+<br>
 
 | Tool                        | Description                         |
 | --------------------------- | ----------------------------------- |
@@ -108,6 +111,7 @@ The goal is to provide a **single modern developer toolkit** that replaces dozen
 
 <details>
 <summary><strong>🔐 Cryptography - 9 tools</strong></summary>
+<br>
 
 | Tool                       | Description                               |
 | -------------------------- | ----------------------------------------- |
@@ -125,6 +129,7 @@ The goal is to provide a **single modern developer toolkit** that replaces dozen
 
 <details>
 <summary><strong>🎨 Create - 9 tools</strong></summary>
+<br>
 
 | Tool                        | Description                       |
 | --------------------------- | --------------------------------- |
