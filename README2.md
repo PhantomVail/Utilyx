@@ -298,7 +298,7 @@ are welcome.
 
 # License
 
-Distributed under the **Apache 2.0 License**. See `LICENSE` for details.
+Distributed under the **Apache 2.0 License**. See [LICENSE](LICENSE) for details.
 
 ---
 
